@@ -1,0 +1,4 @@
+baseURL = "https://minshain.github.io/" #改成你github帳號名稱
+languageCode = "zh-tw"
+title = "我的第一個部落格" #標題可自行更改
+theme = "hamburg" #主題名稱
