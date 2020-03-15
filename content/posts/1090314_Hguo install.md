@@ -1,5 +1,5 @@
 ---
-title: "Hugo加github.io安裝"
+title: "Hugo安裝發佈於Github.io"
 date: 2020-03-14T22:12:17+08:00
 draft: false
 ---
@@ -79,7 +79,7 @@ Running in Fast Render Mode. For full rebuilds on change: hugo server --disableF
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
-開始任意的網路遊覽器，並輸入[*http://localhost:1313/*](http://localhost:1313)或 [*http://127.0.0.1:1313*](http://127.0.0.1:1313)可以預覽成果。
+開始任意的網路遊覽器，並輸入[**http://localhost:1313/**](http://localhost:1313)或 [**http://127.0.0.1:1313**](http://127.0.0.1:1313)可以預覽成果。
 # Step 6: 部署到GitHub
 ## 1. 在GitHub建立Repositories
 在Github建立`你的帳號.github.io`(使用自己的GitHub帳號)
