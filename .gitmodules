@@ -4,3 +4,6 @@
 [submodule "themes/hamburg"]
 	path = themes/hamburg
 	url = https://github.com/hauke96/hugo-theme-hamburg.git
+[submodule "themes/themes/cleanwhite"]
+	path = themes/themes/cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git

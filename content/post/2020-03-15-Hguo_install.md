@@ -1,7 +1,10 @@
 ---
 title: "Hugo安裝發佈於Github.io"
-date: 2020-03-14T22:12:17+08:00
+date: 2020-03-15
+author:      "Minshain"
 draft: false
+image: "https://img.zhaohuabing.com/in-post/2018-05-01-may-day-jiulonghu/snowmountain.jpg"
+categories:  ["TECH" ]
 ---
 # Step 1: 安裝Hugo
 安裝hugo，我的作業系統是Win10，並且是使用 [chocolatey](https://chocolatey.org/)做管理軟體，安裝Hugo使用下列指令。
