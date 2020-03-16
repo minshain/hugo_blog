@@ -12,7 +12,7 @@ tags:
     - Kubernetes
     - Istio
 URL: "/2020/03/14/blog_use_guide/" #想要在網址列顯示的樣子
-categories:  ["TECH" ] #分類，會影響下拉式選單。
+categories:  [ TECH ] #分類，會影響下拉式選單。
 
 ---
 # HELLO WORLD! 這是我的第一個hugo blog

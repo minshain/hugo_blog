@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "川西秘境探险"
+title:      "範例:川西密境探險"
 subtitle:   "2018五一甘堡藏寨，九龙湖自驾游记"
-date:       2018-05-01
+date:       2020-01-03
 author:     "赵化冰"
 image: "https://img.zhaohuabing.com/in-post/2018-05-01-may-day-jiulonghu/snowmountain.jpg"
 published: true
@@ -10,7 +10,7 @@ hide-in-home: true
 tags:
     - Travel
 categories: [ Life ]
-URL: "/2018/05/01/may-day-jiulonghu"
+URL: "/2020/01/03/may-day-jiulonghu"
 ---
 
 ## 寻浮云牧场不遇

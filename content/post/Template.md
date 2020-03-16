@@ -7,7 +7,7 @@ excerpt: "摘述。"
 date:         2020-03-14
 author:      "Siddharam"
 image: "https://img.zhaohuabing.com/in-post/2018-4-25-istio-auto-injection-with-webhook/lion.jpg" #專屬該篇文章的背景圖片
-published: true #如果草稿尚未發表，改為"false"
+published: false #如果草稿尚未發表，改為"false"
 tags:
     - Kubernetes
     - Istio
