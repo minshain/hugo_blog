@@ -3,8 +3,8 @@ title = "Welcome Minshain's Blog"
 theme = "cleanwhite"
 languageCode = "zh-tw"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "minshain"
+googleAnalytics = "UA-160833467-1"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
@@ -29,10 +29,11 @@ home = ["HTML", "RSS", "Algolia"]
   leancloud_app_key = ""
 
   # algolia site search
-  algolia_search = true
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
+  # 無法啟用 nmp run algolia ，可能是找不到algolia.json的問題，但Hugo後有\public\algolia.json
+  algolia_search = false 
+  algolia_appId = "10BHTYD2R2"
+  algolia_indexName = "minshain"
+  algolia_apiKey = "1225dd21cd57c002dde03aef8955d66b"
 
   # Sidebar settings
   sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
