@@ -12,7 +12,7 @@ tags:
     - Kubernetes
     - Istio
 URL: "/2020/03/14/Template_for_ALL/" #想要在網址列顯示的樣子
-categories:  [ TECH ] #分類，會影響下拉式選單。[ "Life" ] ["TIP"]
+categories:  [ TECH ] #分類，會影響下拉式選單。[ "Life" ] ["Tips"]
 
 ---
 # 標題
