@@ -9,9 +9,9 @@ author:      "Siddharam"
 image: "https://img.zhaohuabing.com/in-post/2018-4-25-istio-auto-injection-with-webhook/lion.jpg" #專屬該篇文章的背景圖片
 published: false #如果草稿尚未發表，改為"false"
 tags:
-    - Kubernetes
-    - Istio
-URL: "/2020/03/14/Template_for_ALL/" #想要在網址列顯示的樣子
+    - test
+    - template
+# URL: "/2020/03/14/Template_for_ALL/" #想要在網址列顯示的樣子 #影響分享，不使用
 categories:  [ TECH ] #分類，會影響下拉式選單。[ "Life" ] ["Tips"]
 
 ---

@@ -10,7 +10,7 @@ image: "https://img.zhaohuabing.com/post-bg-2015.jpg" #專屬該篇文章的背�
 published: true #如果草稿尚未發表，改為"false"
 tags:
     - image
-URL: "/2020/03/16/Test_Image_at_same_folder/" #想要在網址列顯示的樣子
+#URL: "/2020/03/16/Test_Image_at_same_folder/" #想要在網址列顯示的樣子
 categories:  [ Tips ]
 
 ---

@@ -10,15 +10,18 @@ image: "" #專屬該篇文章的背景圖片
 published: false #如果草稿尚未發表，改為"false"
 tags:
     - test
-URL: "/2020/03/01/Test_Man/" #想要在網址列顯示的樣子
+URL: "" #想要在網址列顯示的樣子
 categories:  [ Tips ] #分類，會影響下拉式選單。[ "Life" ] ["TIP"]
 markup: mmark
 ------
-測試開始
+# 測試開始
 
+## 第一題 :
 $$
 f(x) = \sin(x)
 $$
+
+## 第二題 : 
 
 When $$a \ne 0$$, there are two solutions to `\(ax^2 + bx + c = 0\)` and they are:
 

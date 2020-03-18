@@ -6,12 +6,12 @@ description: "本文章摘錄自全世界真空管·電晶體手冊-第一輯 �
 excerpt: "摘述。"
 date:         2020-03-17
 author:      "陳銘祥"
-image: "https://img.zhaohuabing.com/in-post/2018-4-25-istio-auto-injection-with-webhook/lion.jpg" #專屬該篇文章的背景圖片
+image: "/img/electron_tube.jpg" #專屬該篇文章的背景圖片
 published: true #如果草稿尚未發表，改為"false"
 tags:
     - Electron Tube
     - Vacuum tube
-URL: "/2020/03/17/Electron_Tube_CH1/" #想要在網址列顯示的樣子
+#URL: "/2020/03/17/Electron_Tube_CH1/" #想要在網址列顯示的樣子，會影響分享
 categories:  [ Maker ] #分類，會影響下拉式選單。[ "Life" ] ["TIP"]
 ---
 # 真空管的動作原理
