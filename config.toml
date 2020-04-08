@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/post-bg-2015.jpg"
   SEOTitle = "銘祥的部落客 | Minshain's Blog"
   description = "陳銘祥,遊民，好爸爸，生活探險家 | 這裡是 陳銘祥 的部落客，紀錄一些生活小事與心得。"
   keyword = "陳銘祥, minshain, 陳銘祥的部落客, 安先生, Minshain Blog, 部落客, 電子電路, Internet, Web"

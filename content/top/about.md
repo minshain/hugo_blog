@@ -1,25 +1,34 @@
-![](/img/minshain.jpg)  **_Minghsiang Chen_** is an ICT veteran with a passion for open source. He has a solid experience in the telecommunication and information technology industry for more than 17 years.
+![](/img/minshain.jpg)  **_Minghsiang Chen_** 高雄人，出生於高雄甲仙，現仍於海軍服務，喜歡動手DIY。
 
-Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions.
+## 學歷:
+- 高雄市援中國小
+- 高雄市右昌國中
+- 五專，正修科技大學，電子科
+- 二技，明新科技大學，電子系
+- 碩士，高雄第一科技大學，資訊管理系
 
-He loves open source and has been contributing to a variety of open source projects, including Istio(Service Mesh https://istio.io), ONAP(Open Network Automation Platform https://wiki.onap.org), Hugo(static site generators https://themes.gohugo.io/hugo-theme-cleanwhite/), etc.
+## 經歷:
+- 學生
+- 松翰科技，PT
+- 海軍，軍官
 
-He also has strong interests in various tech stuff such as Artificial Intelligence, Cryptocurrencies, Smart Home.
+## 作品:
+### 8051視窗介面編輯器(2001)
+**王維倫老師、黃新賢老師指導，郭唐巖、林子茗、沈義明、陳銘祥。**\
+五專畢業專題，以VB實現8051單晶片從程式編寫，組譯，寫入晶片，一次完成。我負責依8051的寫入、抹除時序，製作燒錄器硬體(用8051控制)及VB寫入軟體，使用RS-232。\
+**8051視窗教育發展系統**是為了初學者而設計的8051編譯器，因最近幾年視窗軟體的風行，使得許多只能在DOS介面系統下的編譯及組譯軟體變的難以使用，因此本小組人員花費一年時間，撰寫出可在Win95/98/ME介面系統下，進行編譯與組譯工作。\
+本系統透過Visual Basic 6.0製作一個編譯器，內含一般文書處理軟體的功能，為了方便程式初學者，我們撰寫了一些常見的8051範例‚如:音樂IC、LCD、步進馬達、七段顯示器、點矩陣….等運用，可藉由視窗點選方式，來產生所需功能之8051組合語言程式碼，此編譯器所產生之程式碼使用者可自行修改，並具有軟體模擬8051硬體效果之運用;此外本系統更搭配一套自己撰寫Windows界面的8051組譯器，編輯或修改程式完畢後即可立即組譯成機械碼，本組譯器更具備debug功能，可將錯誤的程式碼指出，以便使用者修改;對於所開發的程式，除了軟體的模擬外，更可以使用硬體實現，本系統本身包含一個操作簡單且功能強大的燒錄器，以方便使用者在模擬8051組合語言程式正確無誤後，可直接將其機械碼燒錄於8051之中。
+![操作視窗](/img/8051-1.png)![燒錄視窗](/img/8051-2.png)![Debug視窗](/img/8051-3.png)![硬體線路圖](/img/8051-4.png)
 
-Huabing holds a BS in Computer Science and Technology from Chongqing University in China.
+### 應用徑向基神經網路於頻寬受限通道上的資料等化(2003)，Applying RBFNN-based DFE for NRZ Data Recovery in Band-limited Channels
+**楊志能老師、許騰仁老師指導，陳銘祥、謝淑瑩、徐千惠**\
+二技畢業專題，本專題的目的是設計一個以感知器類神經網路為基礎的決策回授等化器，並選擇適當的學習演算法，使其應用於頻寬受限的通道上的非歸零資料回復時，具有較好的收斂速度(Convergence Rate)和較低的位元錯誤率(Bit Error Rate, BER)；當這兩者無法兼顧時，則依系統規格的需求，選取兩著的平衡以得到最佳的效能。
+![基頻通信系統](/img/NRZ-1.png)
+![LMS與RB的比較](/img/NRZ-2.png)
 
-Currently, Huabing is working on a 5G NFV&SDN orchestration and management platform, at the same time, he also wears the hat of PTL in ONAP(http://www.onap.org) open source project.
+### 海用飛彈故障預測與妥善管理技術(2017)，Study on Missile Maintenance Technology of Prognostic and Health Management (PHM)
+**張弘毅老師指導**
+飛彈屬高單價武器裝備，自量產出廠到除役具有長時間的服勤壽期。現行的維保方式不管是時間觸發的週期計畫保養或是事件觸發的故障維修，都有其不足的地方。
+為了解決兩者的不足，本研究以文獻探討的方式，提出以開放式服務架構(OSA-CBM, Open System Architecture – Condition Based Maintenance)為基礎以及故障預測與妥善管理(PHM, Prognostic and Health Management)技術後，結合本國飛彈維修保養實況需求，提出一套完整的服務架構與流程，以後勤工程(Logistics Engineering)的可靠度、維護度、支援度及可生產度的四大項目作為評估，結合德菲法(Delphi Method)邀請專家實施深度訪談，做成裝備故障預測與妥善管理技術導入現行作業模式所需條件、關鍵及資源分析，並提出的適切方式與相關建議，供系統研發單位或後勤政策主管，作為後續發展及未來相關工作的參考。
+![PHM](/img/PHM-1.png)
 
-He is happy with his current job, but also willing to take new challenges if the opportunity matches his career path.
-
-While he is not working, he enjoys watching movies, swimming, hiking, travelling, writing blogs and learning languages.
-
-Feel free to connect Huabing via Github (https://github.com/zhaohuabing) or drop him an email (zhaohuabing@gmail.com).
-
-## Talks
-
-* [Service Mesh in Action with ONAP] (https://www.slideshare.net/HuabingZhao/service-mesh-in-action-with-onap) GNTC, 南京, 2018
-* [MSB to Support Carrier Grade ONAP Microservice Architecture with Service Mesh] (https://www.slideshare.net/HuabingZhao/msb-to-support-carrier-grade-onap-microservice-architecture-with-service-mesh) ONS, Los Angeles, 2018
-* [Microservice Powered Orchestration](https://www.slideshare.net/HuabingZhao/microservice-powered-orchestration-126100339) ONS, Santa Clara, 2017
-* [MSB Technical Deep Dive and ONAP Use Cases] (https://www.slideshare.net/HuabingZhao/msb-depp-dive/) ONAP Developer Event, New Jersey, 2017
-* [Microservice Bus Tutorial] (https://www.slideshare.net/HuabingZhao/microservice-bus-tutorial) ONAP Developer Event, Paris, 2017

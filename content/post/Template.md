@@ -5,8 +5,8 @@ subtitle:    "這是銘祥的寫作用模板，包含文章前端的參數設定
 description: "本模板適用於Clearwhite 這個佈景主題的，包含分類的使用會影響上拉式選單選項，POST背景顯示圖片，以及其他尚未測試出來的功能"
 excerpt: "摘述。"
 date:         2020-03-14
-author:      "Siddharam"
-image: "https://img.zhaohuabing.com/in-post/2018-4-25-istio-auto-injection-with-webhook/lion.jpg" #專屬該篇文章的背景圖片
+author:      "陳銘祥"
+image: "/img/post-bg-e2e-ux.jpg" #專屬該篇文章的背景圖片
 published: false #如果草稿尚未發表，改為"false"
 tags:
     - test
