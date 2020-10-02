@@ -2,7 +2,7 @@
 layout:     post
 title:       "如何提高與社交能力-1" 
 subtitle:    "閒談是社交的敲門磚"
-description: "本模板適用於Clearwhite 這個佈景主題的，包含分類的使用會影響上拉式選單選項，POST背景顯示圖片，以及其他尚未測試出來的功能"
+description: ""
 excerpt: "摘述。"
 date:         2020-09-03
 author:      "陳銘祥"
