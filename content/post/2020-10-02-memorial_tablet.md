@@ -6,8 +6,8 @@ description: "中秋時節，家裡最重要的事情除了一家團聚烤肉外
 excerpt: "摘述。"
 date: 2020-10-02
 author:      "陳銘祥"
-image: "/img/post-bg-coffee.jpeg" #專屬該篇文章的背景圖片
-published: true #如果草稿尚未發表，改為"false"
+image:  "/img/post-bg-coffee.jpeg" #專屬該篇文章的背景圖片
+published: ture  #如果草稿尚未發表，改為"false"
 tags:
     - family
     - memories
