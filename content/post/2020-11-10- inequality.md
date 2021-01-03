@@ -4,7 +4,7 @@ title:       "求解不等式的名稱"
 subtitle:    "今天一直在思考的不等式問題，一直想不起名稱"
 description: ""
 excerpt: "摘述。"
-date:         2020-03-14
+date:         2020-11-10
 author:      "陳銘祥"
 image: "/img/post-bg-e2e-ux.jpg" #專屬該篇文章的背景圖片
 published: ture #如果草稿尚未發表，改為"false"
